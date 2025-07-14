@@ -1,0 +1,789 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1748354070064,
+    "data": [
+        {
+            "type": "file",
+            "name": ".eslintrc",
+            "size": 120,
+            "hash": "f7333fa9c41790ddfe4e77f79e3d32175d0dc4349c5191e67332b6f4a9293ce0"
+        },
+        {
+            "type": "file",
+            "name": ".stylelintrc.json",
+            "size": 416,
+            "hash": "626983399912be08d2355878fc7c2c86ae1f4550b2702d5c25763907d40966b3"
+        },
+        {
+            "type": "file",
+            "name": "404.php",
+            "size": 1601,
+            "hash": "e35596109964402b97db5bd9a7b0fdeb83c52364cf8881ecf432ae3902e93bf5"
+        },
+        {
+            "type": "file",
+            "name": "LICENSE",
+            "size": 18046,
+            "hash": "db296f2f7f35bca3a174efb0eb392b3b17bd94b341851429a3dff411b1c2fc73"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 4485,
+            "hash": "91fb21f043e1bd53b97cd251828b22a7c74d2770af3e6e02148caa310b7f4e51"
+        },
+        {
+            "type": "file",
+            "name": "archive-thong-bao.php",
+            "size": 5157,
+            "hash": "fa8982da2a128fe687241d01e81eee7ee713d4359febbbb5f790bf3d86a3b686"
+        },
+        {
+            "type": "file",
+            "name": "archive-truyen_chu.php",
+            "size": 946,
+            "hash": "d30747c7d01f8700490759a18f8f149c972c53e2f72201f3e14baeb7a75b789e"
+        },
+        {
+            "type": "file",
+            "name": "archive.php",
+            "size": 1058,
+            "hash": "1f9865fb4ffc54f02f2f4f394dad13985991728ea31527497a4d97b88f7d6dce"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "author.php",
+            "size": 16573,
+            "hash": "ba825aac671812fc2187b7056a60b200de76e29af0bcc4a493de6258e6665d1b"
+        },
+        {
+            "type": "file",
+            "name": "comments.php",
+            "size": 5219,
+            "hash": "b1e5b00584dc04aca097d2033b312f05fe2182a34690e52db3f1cf042551e1e1"
+        },
+        {
+            "type": "file",
+            "name": "composer.json",
+            "size": 1301,
+            "hash": "b61548a06de7e4be637da0123ffa690220084b84f603a6bee26fde19736ed694"
+        },
+        {
+            "type": "file",
+            "name": "footer.php",
+            "size": 1725,
+            "hash": "881b64627bbb6f8c1e006ad3263fe1c24d0e399888932132fb53502332446015"
+        },
+        {
+            "type": "file",
+            "name": "front-page.php",
+            "size": 1184,
+            "hash": "bfb8c810f7b353a2342d0e4c27c881ffef6bd8861b83e60d15ce27dc2572ea84"
+        },
+        {
+            "type": "file",
+            "name": "functions.php",
+            "size": 62883,
+            "hash": "316741c0a873df7b0fb5480c7d90f27459c6f024fa024bb96282531176464c0b"
+        },
+        {
+            "type": "file",
+            "name": "header.php",
+            "size": 14856,
+            "hash": "15df8ee2b3819e03efd69d7049fec363b13e5f2fb6ecb773aaf4439db13aea0a"
+        },
+        {
+            "type": "file",
+            "name": "import-chapters.php",
+            "size": 10278,
+            "hash": "f4ad65d99997f13b527f49e96bd90218dbdd7cf05dc8f42b5e2e52f12f30d04c"
+        },
+        {
+            "type": "folder",
+            "name": "inc"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 1184,
+            "hash": "784cdd0ec72f69e61297fa99cb843b2f5a0f3827f9ed8d5d958eef028afb1fdb"
+        },
+        {
+            "type": "folder",
+            "name": "js"
+        },
+        {
+            "type": "folder",
+            "name": "languages"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 1743,
+            "hash": "f261442ab1d217f706c834d89ef8c42c18c2ebbfbf96eb3d6648d0ddd7ec76a9"
+        },
+        {
+            "type": "file",
+            "name": "page-bang-xep-hang.php",
+            "size": 5476,
+            "hash": "9fa12e322d7d337cb99aab31999262523e4a686990af9079b07ebf1acf3489e2"
+        },
+        {
+            "type": "file",
+            "name": "page-goi-vip.php",
+            "size": 6853,
+            "hash": "bd17ead51dba3ff23277aed47224c4d4f73be002b2287b079011eb56f75530f9"
+        },
+        {
+            "type": "file",
+            "name": "page-lich-su-thanh-toan.php",
+            "size": 4954,
+            "hash": "1e8dfb9cd5d0a01679ddc6909f797bcab8a525f6b1a5b881ae5ceed5835c958a"
+        },
+        {
+            "type": "file",
+            "name": "page-nap-kim-te.php",
+            "size": 4433,
+            "hash": "005682031198ae7cd2356697b6f481e48340bab752e82e3187106972e309f386"
+        },
+        {
+            "type": "file",
+            "name": "page-reading-history.php",
+            "size": 3728,
+            "hash": "a7b618d8bf2ea4d6f4d10181c40839ff26b076df2f0673cb9d2de8c5bb1a9740"
+        },
+        {
+            "type": "file",
+            "name": "page-vi-tien.php",
+            "size": 6733,
+            "hash": "1b5f1adc95dc649b5b74e953d242a83f9ffad457f09d33b762ea42bd7ca604a3"
+        },
+        {
+            "type": "file",
+            "name": "page.php",
+            "size": 809,
+            "hash": "67c666a5c38b60ea8390edff4bfbdd2d91b7e1921665524cd4f71dd512f1306d"
+        },
+        {
+            "type": "file",
+            "name": "phpcs.xml.dist",
+            "size": 4042,
+            "hash": "2e4718a891426078c2521a427d3991fd680e402a41dee168d999cc737b82dd01"
+        },
+        {
+            "type": "file",
+            "name": "process-vip-purchase.php",
+            "size": 1804,
+            "hash": "955e01c1b7dc61e0358d0dba63dddc719e53426ad77c61885cac2d3be4ca82eb"
+        },
+        {
+            "type": "file",
+            "name": "readme.txt",
+            "size": 1131,
+            "hash": "7fb3f8bb15076be83e7c9cdbd3b8450540eb9632910551281ad6220d17f51b27"
+        },
+        {
+            "type": "file",
+            "name": "screenshot.png",
+            "size": 264,
+            "hash": "7e4bc613f200af7487c0da58919280ce263cb66a7bc6b800922bbae6573d8bff"
+        },
+        {
+            "type": "file",
+            "name": "search.php",
+            "size": 4478,
+            "hash": "900b829508d5f3ecc0767bdca7c6d12e907dcf9411ed801e134a83883e1d4224"
+        },
+        {
+            "type": "file",
+            "name": "sidebar.php",
+            "size": 351,
+            "hash": "fc0be7011111aa420b6e4504a647cf6cc41cad0f9f34e9c9b24d6ba5cb2927fb"
+        },
+        {
+            "type": "file",
+            "name": "single-chuong_truyen.php",
+            "size": 12412,
+            "hash": "bacdc32b70fa14f6285a2401d179afd0ed83e84ed1ee92fa82d9854a3b705f6b"
+        },
+        {
+            "type": "file",
+            "name": "single-thong-bao.php",
+            "size": 5075,
+            "hash": "d814664e924eb70dd86bba284ad5e10443d00223c683fcb05c777769cf863d50"
+        },
+        {
+            "type": "file",
+            "name": "single-truyen_chu.php",
+            "size": 24882,
+            "hash": "1edcd51850a158da7c5aa6009b82c7392cd825823e7695d031d604473acc1d80"
+        },
+        {
+            "type": "file",
+            "name": "single.php",
+            "size": 959,
+            "hash": "216dbed99352a770eeeaa489d9582076a7e851252b4c406ea6b5e1989be602b8"
+        },
+        {
+            "type": "file",
+            "name": "style-rtl.css",
+            "size": 16926,
+            "hash": "8d187534994a4d3614bc745bb53c184ae0ca4c5166bd3545f9000c249d49e169"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 29962,
+            "hash": "ce72dd4ddf0402c473c2e231b7eba29bdd03ee835f41d618e9b2d4bfbe10466d"
+        },
+        {
+            "type": "file",
+            "name": "style.css.map",
+            "size": 25102,
+            "hash": "5bdf8fa135748faa90056a997f09ef67e893ca52e9b25a895bc4e3cb7148b36d"
+        },
+        {
+            "type": "file",
+            "name": "tag.php",
+            "size": 2534,
+            "hash": "a44692a1a1374fbcbbdd7af9c9724def9f2e4c6fc38a9c8e2388acdd42d270c1"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-danh-muc-thong-bao.php",
+            "size": 4073,
+            "hash": "2564964815158979d9ac3a9f2647c39bd68aee6e7881fe7771b3278d493dac4f"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-nam_phat_hanh.php",
+            "size": 4414,
+            "hash": "6cb546153e854530367dcf7078690da8b0ebf2d9ebe5e220177e2afcda423dbd"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-tac_gia.php",
+            "size": 1393,
+            "hash": "18843f5461571f527a5292133a566adfaca2503e4762436f854d1d5035b7955b"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-the_loai.php",
+            "size": 1398,
+            "hash": "a0b464f69a3f688a061bd9f058e342ecf56d6c97b62e078587b315ba677116ff"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-trang_thai.php",
+            "size": 1402,
+            "hash": "3c0b51a7b9983029af3e1c706b96eb97567472dcaeaca50d501e14ae1dcd141c"
+        },
+        {
+            "type": "folder",
+            "name": "template-parts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss"
+        },
+        {
+            "type": "file",
+            "name": "inc/custom-header.php",
+            "size": 1910,
+            "hash": "fcb30cd4bf3c0853dcd7ddf084f0c3b6d40758719af59e05c825b6aa4dafdb06"
+        },
+        {
+            "type": "file",
+            "name": "inc/customizer.php",
+            "size": 1750,
+            "hash": "9405e879a1e84042ec915f98bd5080ef9a587e740df445148d787357da6ce8b7"
+        },
+        {
+            "type": "file",
+            "name": "inc/jetpack.php",
+            "size": 1568,
+            "hash": "6ff2d175be48631bc3644d07309549f9819e0275bfb41a052492dbbe40474e12"
+        },
+        {
+            "type": "file",
+            "name": "inc/reading-history.php",
+            "size": 4226,
+            "hash": "d1327c9b3c0cec8c7ad58ded0503876200333e29370efbe3117a667fbcf824a3"
+        },
+        {
+            "type": "file",
+            "name": "inc/template-functions.php",
+            "size": 927,
+            "hash": "18b31cc11604fce5d52352dc69c2cc949035023471116b53ff088a8e033136e5"
+        },
+        {
+            "type": "file",
+            "name": "inc/template-tags.php",
+            "size": 4832,
+            "hash": "aa58aa9e09c99d936eae928cd17691f9847fa9cbba54b3a31049c3e51f1095e9"
+        },
+        {
+            "type": "file",
+            "name": "js/customizer.js",
+            "size": 1011,
+            "hash": "3b8dc385c6d78b8cb02a3e336f806b739d87135407388a9d314f374c7867cca2"
+        },
+        {
+            "type": "file",
+            "name": "js/navigation.js",
+            "size": 2980,
+            "hash": "8ee0654259fda0bbfeab4305b895e740659613080d90352bd36c1452fd426ef6"
+        },
+        {
+            "type": "file",
+            "name": "languages/commicpro.pot",
+            "size": 4632,
+            "hash": "793cb3e2b944a99e072d8171e73002578a4f9b6ba0ea13f1e6aff47ad3710a31"
+        },
+        {
+            "type": "file",
+            "name": "languages/readme.txt",
+            "size": 322,
+            "hash": "781de5d8fb9bdd29c92f0d3f777282f47fa326a6646a3c98d18b659c6d4abfff"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-none.php",
+            "size": 1270,
+            "hash": "b56f5282a9fb52dccb12e2766fd1b495a092a8e22bba8feefa3009ee14cde00c"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-page.php",
+            "size": 1216,
+            "hash": "1c6ed45058d841da27d845ebcad592a7644e631a30168cd0f83e1371840d34ef"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-search.php",
+            "size": 897,
+            "hash": "e8c99caf3c6458cbc62ab3b96dbb1101d0728d14186935d030002d3e27980e87"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content.php",
+            "size": 1445,
+            "hash": "fc108b2a498d1fa4058c72c8e3507713f636b78087e4680885f40b9302ce03dd"
+        },
+        {
+            "type": "folder",
+            "name": "template-parts/home"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/bg_vip.jpg",
+            "size": 498197,
+            "hash": "e7ae3c01303a3ae0ec5086615d788f1bbf969b19881d1aac9e60e79298027277"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/google.svg",
+            "size": 977,
+            "hash": "fba501cd89a925cada96ff0ffb1bd67e9669dbc422593178d7baeab5c062594c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/huyennu.png",
+            "size": 362665,
+            "hash": "370ef4eb618ce7088ea6c4eb9a99f22f4dc10711942883eb792b4e6cf2c4b0e3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/logo.svg",
+            "size": 85069,
+            "hash": "e251f2c66bbe29481995403597035020cd6bf7cb0ffacc39c8cea364e3564fba"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ngocnu.png",
+            "size": 635566,
+            "hash": "41e7cdaa614744eb2e1be631e4563948e9ea72d8b593da9b2aad7539623ad90f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/thannu.png",
+            "size": 354237,
+            "hash": "832738c5cdfbc86d2758fb882f2340fa260b4d85268dad46d7312e11aae4c87d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/thienton.png",
+            "size": 1009246,
+            "hash": "4608211cd50afcfeaf35f60b0baefe41cba2c07d42e9e90f2234fa0c19e51ca3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tienco.png",
+            "size": 550777,
+            "hash": "35cdae2ad94243228d0bf2860f957832d129737f82f9e43ef945eef93d2780d7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tiennu.png",
+            "size": 365270,
+            "hash": "00c05635b4df7e25b78c62c7bd8cd89a389a3e1de0234dbad4239eb58545db0e"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/swiper-init.js",
+            "size": 3824,
+            "hash": "c67ee6721025b84ed4324f31ed83afd251be221be854f75b14262758b87d69fe"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/aos"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/fancybox"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/fontawesome"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/isotope"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/owlcarousel"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/paginationjs"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/swiper"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss/abstracts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss/base"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss/components"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss/layout"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/main.scss",
+            "size": 932,
+            "hash": "70ef9c805eb9c86d2584573108df57f9029c2729e24e30e591151ed4f47b7cac"
+        },
+        {
+            "type": "folder",
+            "name": "assets/scss/pages"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/banner.php",
+            "size": 4947,
+            "hash": "1a4b6ea3166587478aca0e94d58e3782f1491ac1a16a77c229d768ed968dcca1"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/item-card.php",
+            "size": 3114,
+            "hash": "d56935993ec721999f8187234372552a14482356c4a35007cd8ce97bbf764ed1"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/slider-latest.php",
+            "size": 1247,
+            "hash": "842673658a6b312a1fb2ddf391f8ff3c64f20df7080369b78ecd8527086eac3d"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/slider-popular.php",
+            "size": 1141,
+            "hash": "8f6475c70c437baee673907b768559ffc816656f57bfcc21f3996716f5a9ed36"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/slider-taxonomy-1.php",
+            "size": 1374,
+            "hash": "41abee6cc8fbc861539c7fb0534692de7d16e01818187ba900379cc14f019ad6"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/home/slider-taxonomy-2.php",
+            "size": 1277,
+            "hash": "727f5b9f5e672391f03cc38d003dc43b80075aa5c06748408152f610fe636133"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/aos/aos.css",
+            "size": 26053,
+            "hash": "1aa8845fd06e475aefe733d4e55b36a92fcd487975049c8172341827ac9cc03e"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/aos/aos.js",
+            "size": 14239,
+            "hash": "f268612ba59ead1b24353bb77d66783bcc435aff1c22be5f93c40bac3869968e"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/fancybox/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/fancybox/js"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/fontawesome/all.min.css",
+            "size": 174333,
+            "hash": "caf2756a13f8fee24efb8378994a43a44150c14fa06dc7ac372e24226b03c220"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/isotope/isotope.pkgd.min.js",
+            "size": 35445,
+            "hash": "081ae9baaacc857c1c2cb51de6dbd0e1eb811c2761ef01a50df373f2f6eefe22"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/owlcarousel/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/libs/owlcarousel/js"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/paginationjs/jquery.simplePagination.js",
+            "size": 10998,
+            "hash": "081e68fc72f28204a437f5fb8e3c76da80816e3b6f0a955f8c745726eb7cdadb"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/paginationjs/simplePagination.css",
+            "size": 6003,
+            "hash": "6060944b9c391d7d576e2f28f36c8a2398ab8d80371ca21dfae48c2d079c8b13"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/swiper/swiper-bundle.min.css",
+            "size": 18458,
+            "hash": "189354735c4b4ad5b3bea7a72fd8dae8c3be93b2f08bcb4c65b1b8ad95e6235c"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/swiper/swiper-bundle.min.js",
+            "size": 151700,
+            "hash": "4321e8409d1486f2484a85b5934dcdb79c30c407e3cb5f639893857f4b23d939"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/abstracts/_functions.scss",
+            "size": 150,
+            "hash": "caa76dc4563066d406ba267c8b7b617fec4b8831c9f3184d322384b94cd1a3e3"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/abstracts/_mixins.scss",
+            "size": 647,
+            "hash": "176c083eaec389bd67141cf03f908c2a8e0f096ad162880aa036f953916dc0a1"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/abstracts/_variables.scss",
+            "size": 487,
+            "hash": "20cc05b9c940df668cf595b8fe61809305e23543868c34d705ba46b8a4899a98"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/base/_reset.scss",
+            "size": 497,
+            "hash": "84cbdae9082ed8227d4527b5e5c7f21bf3737e4ca071f59566ae0b8d3c3b0c58"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/base/_typography.scss",
+            "size": 257,
+            "hash": "0ff83a7aa2ec6eabcd8a4f987a2d50c3006fcb1f99401eeb62acc367fc58a331"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/base/_utilities.scss",
+            "size": 3078,
+            "hash": "525c81711af89d9e5d23554bc09eb86d424af2cfc14b678f67373dbe6807d745"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_banner.scss",
+            "size": 4816,
+            "hash": "cb18ce0f17ca4bdfb3f2cba67844bbbbc2fbf8fb8c3cffd950d82bc8a7a8d4c2"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_buttons.scss",
+            "size": 497,
+            "hash": "4dad2ac6ba17dded84ee27545ceb11630db27e2c1ef82c8bddda1a012f9858fb"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_forms.scss",
+            "size": 635,
+            "hash": "a325effbe0c07d1849213ceb46dc096fedcca88aab09f58831d900e62c0baf9a"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_item_card.scss",
+            "size": 650,
+            "hash": "cb489cc29211b0d2c729ae9037cbe59cb15b4cd3cc571133886725f7970175ad"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_navigation.scss",
+            "size": 199,
+            "hash": "ac0787a19c09e60dff291d4623b853a0b3a9792818d3474a22d32dcbb551117d"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_modal.scss",
+            "size": 74,
+            "hash": "9f82eaad63bf37e03bae2dcfee99c36bc7f92f6e3de98927d968e93a224c416c"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_pagination.scss",
+            "size": 779,
+            "hash": "6e438a36946fbff989e4d39fec42e7be7897329b4fdf90bcff54661e79709108"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/components/_slide_home.scss",
+            "size": 1025,
+            "hash": "27709db86900e78ec7684c84b1ca2689175ebd2ce65c4d3f1fbab3fd3d9d9428"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/layout/_footer.scss",
+            "size": 465,
+            "hash": "a6a08349fd12e3418ad154cf1fccf210d509242ab62513c0fa1940d031348ff0"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/layout/_grid.scss",
+            "size": 195,
+            "hash": "7d2f017744ac25285c666892958b3ddd4e2bd146a84f1bafc0bb7d85bca0d669"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/layout/_header.scss",
+            "size": 2233,
+            "hash": "c9d040942edf33178c78ba8e43f06c58ef99f07407914b62af6f13aceb7873ae"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/layout/_sidebar.scss",
+            "size": 96,
+            "hash": "ec9d8aa507e1a6f323a08a397d77de6c40848f7ff40f5be9143c4f2dadd3f79f"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_archive.scss",
+            "size": 1345,
+            "hash": "2643b57536a55be43d4f8c7fcc7edaf1b6e2fa42ddce2792a12294cfcba74e2b"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_author.scss",
+            "size": 15400,
+            "hash": "ac156170eecfe873f319737f270cece2100f5838cd49b2f88425bbebdea4388d"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_goivip.scss",
+            "size": 1795,
+            "hash": "1f686dac0bd0bb19f0f16d73c0576eba781556a75afdd890732d8d2e43c0d792"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_home.scss",
+            "size": 86,
+            "hash": "3bc42bb9ccb4fd236d14d37297cff178701a8f9afc62e94b664e7e21bdf54eff"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_rating.scss",
+            "size": 252,
+            "hash": "a9e2aebcc59f85ca4df15384cabc1832fdd45b2616a770552523bf70d07ce3cd"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_single.scss",
+            "size": 6732,
+            "hash": "efa985ed6bb3bf552f61100625e11f6be42ea5e10b42f0057f2075a439f5a96d"
+        },
+        {
+            "type": "file",
+            "name": "assets/scss/pages/_thongbao.scss",
+            "size": 2330,
+            "hash": "6e11fc3364bcf49c0073ef5964c5a20aa4b813fce6064c8dd92f6f8ab4f4513d"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/fancybox/css/fancybox.css",
+            "size": 15371,
+            "hash": "58889ea345853e457b91c036950e1908ee604e0d41b3f4815f9633101e099323"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/fancybox/js/fancybox.umd.js",
+            "size": 101256,
+            "hash": "cec9e1103f60e94acedf6040481c97b83022c6a94e5a740e5bde509870b6d000"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/owlcarousel/css/owl.carousel.min.css",
+            "size": 3351,
+            "hash": "521410e1fc44780061e09adc980275fb5ea277fd5d9e538454214ec4379ff4bc"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/owlcarousel/css/owl.theme.default.min.css",
+            "size": 1013,
+            "hash": "924b0dc630d1c5dff9fa31aead9509775b1d476bfe0a5ac2977b2f11205a26ac"
+        },
+        {
+            "type": "file",
+            "name": "assets/libs/owlcarousel/js/owl.carousel.min.js",
+            "size": 44397,
+            "hash": "b3e237c02c450e7a26db57a57c5997e9f56d0fca95aa4890dfea21b617bf5e79"
+        }
+    ]
+}
