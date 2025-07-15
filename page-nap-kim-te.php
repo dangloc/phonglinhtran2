@@ -91,7 +91,7 @@ if ($qr_images):
                 ob_start();
                 ?>
                 <!-- HTML ở đây -->
-                <h2 style="color:red">Nội dung chuyển khoản bắt buộc phải xóa hết và nhập lại duy nhất: <p><?php echo $username; ?></p></h2>
+                <h2 style="color:red">Nội dung chuyển khoản bắt buộc phải xóa hết và nhập lại duy nhất: CHUYEN TIEN <p><?php echo $username; ?></p></h2>
                 <p class="text-black">( 1000 xu tương đương 1000 vnđ )</p>
                 <h5 class="text-black">Khi chuyển khoản xong thì bấm xác nhận và đợi 1 phút sau đó kiểm tra số dư</h5>
             </div>
