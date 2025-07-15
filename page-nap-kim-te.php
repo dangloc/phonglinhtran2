@@ -38,11 +38,24 @@ if ($balance === '') {
         color: #f4be44;
         font-style: normal;
     }
+
+    @media screen and (max-width: 560px) {
+    /* Giảm kích thước chữ trong modal */
+    #depositModal .modal-body h2,
+    #depositModal .modal-body p,
+    #depositModal .modal-body h5 {
+        font-size: 13px !important;
+    }
+    /* Giảm kích thước hình ảnh QR trong modal */
+    #depositModal #qrImagePreview {
+        max-height: 90px !important;
+    }
+}
 </style>
 
 <div class="container text-center my-3">
     <div class="d-flex p-2 justify-content-center">
-        <h3 class="custom-text-title">Mời tiên trưởng chọn gọi nạp xu đột phá!!!</h3>
+        <h3 class="custom-text-title">Mời tiên trưởng chọn gọi nạp xu7890mn,b.v / đột phá!!!</h3>
     </div>
     <div class="row row-cols-2 row-cols-md-4 gx-3 gy-3">
         <?php 
